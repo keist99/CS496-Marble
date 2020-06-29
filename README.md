@@ -1,14 +1,14 @@
 # 유니티 마블 게임
 
-![Language][language-csharp]
-![Library][library-unity]
-![Platform][platform-pc]
+![language-c#][language-c#]
+![library-unity][library-unity]
+![platform-pc][platform-pc]
 <br>
-![Participants][participants-duo]
+![participants-duo][participants-duo]
 <br>
-[![School Project][kaist-image]][kaist-cs-url]
-![Course][course-cs496]
-![Grade][grade-p]
+[![institution-kaist][kaist-image]][kaist-cs-url]
+[![course-immersion-camp][course-cs496]][course-cs496-url]
+![grade-p][grade-p]
 
 > 미니게임을 통해 얻은 돈으로 보드판의 과목들을 이수하여 먼저 졸업하는 것을 목표로 하는 멀티플레이어 보드게임입니다.
 
@@ -27,7 +27,8 @@
 <!-- Image definitions -->
 [kaist-image]: https://img.shields.io/badge/Institution-KAIST-blue
 [kaist-cs-url]: https://cs.kaist.ac.kr
-[course-cs496]: https://img.shields.io/badge/Course-Immersion%20Camp%3A%20Intensive%20Programming%20and%20Startup-brightgreen
+[course-cs496]: https://img.shields.io/badge/Course-Immersion%20Camp-brightgreen
+[course-cs496-url]: https://madcamp.io
 [language-csharp]: https://img.shields.io/badge/Language-C%23-orange
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
 [platform-pc]: https://img.shields.io/badge/Platform-PC-yellowgreen
