@@ -12,11 +12,11 @@
 
 > 미니게임을 통해 얻은 돈으로 보드판의 과목들을 이수하여 먼저 졸업하는 것을 목표로 하는 멀티플레이어 보드게임입니다.
 
-## 스크린샷
+### 스크린샷
 
 (준비 중)
 
-## 라이선스 및 공동체 수정
+### 라이선스 및 공동체 수정
 
 이곳은 개인 프로젝트 백업을 목적으로 하는 저장소입니다.
 
@@ -29,7 +29,7 @@
 [kaist-cs-url]: https://cs.kaist.ac.kr
 [course-cs496]: https://img.shields.io/badge/Course-Immersion%20Camp-brightgreen
 [course-cs496-url]: https://madcamp.io
-[language-csharp]: https://img.shields.io/badge/Language-C%23-orange
+[language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
 [platform-pc]: https://img.shields.io/badge/Platform-PC-yellowgreen
 [grade-p]: https://img.shields.io/badge/Grade-P-yellow
