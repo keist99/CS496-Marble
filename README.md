@@ -14,7 +14,13 @@
 
 ### 스크린샷
 
-(준비 중)
+<img src="documents/screenshot_board.png" height="200px">
+
+<img src="documents/screenshot_mini_ca.png" height="200px">
+
+### 개발 기간
+
+2019년 7월 16일 - 7월 26일 (10일간)
 
 ### 라이선스 및 공동체 수정
 
