@@ -8,7 +8,7 @@
 <br>
 [![institution-kaist][kaist-image]][kaist-cs-url]
 [![course-immersion-camp][course-cs496]][course-cs496-url]
-![grade-p][grade-p]
+![grade-s][grade-s]
 
 > 미니게임을 통해 얻은 돈으로 보드판의 과목들을 이수하여 먼저 졸업하는 것을 목표로 하는 멀티플레이어 보드게임입니다.
 
@@ -21,6 +21,10 @@
 ### 개발 기간
 
 2019년 7월 16일 - 7월 26일 (10일간)
+
+### 기획서
+
+[마블 게임 기획서](static/document.pdf)
 
 ### 라이선스 및 공동체 수정
 
@@ -38,5 +42,5 @@
 [language-c#]: https://img.shields.io/badge/Language-C%23-orange
 [library-unity]: https://img.shields.io/badge/Library-Unity-green
 [platform-pc]: https://img.shields.io/badge/Platform-PC-yellowgreen
-[grade-p]: https://img.shields.io/badge/Grade-P-yellow
+[grade-s]: https://img.shields.io/badge/Grade-S-yellow
 [participants-duo]: https://img.shields.io/badge/Participants-Duo%20Project-7aa3cc
