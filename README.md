@@ -14,9 +14,9 @@
 
 ### 스크린샷
 
-<img src="static/screenshot_board.png" height="200px">
+<img src="/static/screenshot_board.png" height="200px">
 
-<img src="static/screenshot_mini_ca.png" height="200px">
+<img src="/static/screenshot_mini_ca.png" height="200px">
 
 ### 개발 기간
 
